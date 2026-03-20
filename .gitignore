@@ -1,0 +1,16 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Audio files (can be regenerated)
+*.wav
+*.mp3
+*.ogg
+*.flac
+
+# Analysis images
+*.png
+
+# OS
+.DS_Store
